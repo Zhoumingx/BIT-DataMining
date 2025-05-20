@@ -28,5 +28,5 @@ python time_series_mining.py
 
 ### 退款模式分析
 ```shell
-python data_analysis.py
+python refund_pattern_mining.py
 ```
